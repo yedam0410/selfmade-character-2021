@@ -1,0 +1,15 @@
+body {
+  background-color: whitesmoke;
+  margin: 0;
+}
+
+.owners-name {
+  width: 100vw;
+  height: 15vh;
+  position: fixed;
+  background-color: rgb(207, 204, 204);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
