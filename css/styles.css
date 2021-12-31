@@ -13,3 +13,21 @@ body {
   align-items: center;
 }
 
+.character-list1__img,
+.character-list2__img {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+}
+
+.character-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.character-list1,
+.character-list2 {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
